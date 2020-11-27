@@ -1,0 +1,1 @@
+A collection of projects building on eachother. The culmination, Project 3, can be run to play Minesweeper in the command prompt.
