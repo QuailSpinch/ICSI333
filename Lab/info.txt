@@ -1,1 +1,3 @@
 A collection of very small projects that were created on a weekly basis.
+
+Lab 4 has been lost at some point in time.
