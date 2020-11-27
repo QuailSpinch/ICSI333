@@ -1,0 +1,4 @@
+Fourth and final project of the class. This was a group project (in teams of two) to create a webserver.
+Overall, five copies of the program were sent between the two of us (due to COVID-19 work was not done in person together).
+One of us focused on research of the webserver and the other on the file serving.
+Together the project came together to one file.
